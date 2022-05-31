@@ -8,6 +8,12 @@ function sub(a,b)
     return a-b;
 }
 
+function div(a,b)
+{
+    return a/b;
+}
+
+
 let a=10;
 let b=5;
 
